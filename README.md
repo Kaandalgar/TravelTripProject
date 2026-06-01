@@ -1,4 +1,4 @@
-# 🌍 Travel Trip Project
+# 🌍 Travel Blog & Tourism Management Platform
 
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET-MVC-blue)
 ![C#](https://img.shields.io/badge/C%23-.NET-purple)
